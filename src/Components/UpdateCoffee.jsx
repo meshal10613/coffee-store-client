@@ -33,8 +33,8 @@ const UpdateCoffee = () => {
         })
     }
     return (
-        <div>        
-            <div className='main-bg'>
+        <div className='main-bg'>        
+            <div>
                 <div>
                     <Link to="/" className='flex gap-3 items-center my-5 w-fit'>
                         <FaArrowLeftLong />
